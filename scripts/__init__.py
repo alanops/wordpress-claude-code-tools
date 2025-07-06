@@ -1,0 +1,1 @@
+# WordPress Claude Code Tools - Scripts Package

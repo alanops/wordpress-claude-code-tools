@@ -1,0 +1,10 @@
+{
+  "site_url": "https://your-wordpress-site.com",
+  "username": "your-username-or-email",
+  "app_password": "your-application-password",
+  "default_category": 1,
+  "default_author": 1,
+  "enable_ssl_verification": true,
+  "timeout": 30,
+  "max_retries": 3
+}
