@@ -2,6 +2,8 @@
 
 A collection of open-source tools for automating WordPress content management using Claude Code and DevOps principles. Transform your WordPress blog into a frictionless publishing platform directly from your terminal.
 
+> Status: Active
+
 ## 🎯 Overview
 
 This repository contains sanitized, production-ready scripts that demonstrate how to:
